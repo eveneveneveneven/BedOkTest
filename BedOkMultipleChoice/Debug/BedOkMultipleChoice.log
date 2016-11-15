@@ -1,0 +1,4 @@
+﻿  BedOkMultipleChoice.cpp
+c:\users\evenod\documents\visual studio 2015\projects\bedokmultiplechoice\bedokmultiplechoice\bedokmultiplechoice.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BedOkMultipleChoice.vcxproj -> c:\users\evenod\documents\visual studio 2015\Projects\BedOkMultipleChoice\Debug\BedOkMultipleChoice.exe
+  BedOkMultipleChoice.vcxproj -> c:\users\evenod\documents\visual studio 2015\Projects\BedOkMultipleChoice\Debug\BedOkMultipleChoice.pdb (Full PDB)
