@@ -1,0 +1,70 @@
+En bedrift har bokført anleggsmidler i balansen per 31.12.12 og per 31.12.13 til henholdsvis 8 735 000 kr og 8 607 000 kr. Avskrivninger i 2013 var på 712 000 kr. Hvor mye har bedriften kjøpt anleggsmidler for i 2013? Se bort fra merverdiavgift.
+a) 840 000 kr
+b) 128 000 kr
+$c) 584 000 kr
+d) 712 000 kr
+I balansen for et selskap finner vi at anleggsmidler = 52 mill kr, omløpsmidler = 37 mill kr, egenkapital = 35 mill kr og langsiktig gjeld = 23 mill kr (kortsiktig gjeld er ikke oppgitt). Hva er arbeidskapitalen?
+a) 29 mill kr
+b) 14 mill kr
+c) 17 mill kr
+$d) 6 mill kr
+For året 2013 oppnår en bedrift et resultat før skatt på 41 760 000 kr. Skattesatsen er 28 %. Årets regnskapsmessige avskrivninger er 3 782 000 kr, mens de skattemessige avskrivningene er 3 282 000 kr. Hva blir betalbar skatt for 2013?
+a) 11 692 800 kr
+b) 11 950 800 kr
+$c) 11 832 800 kr
+d) 140 000 kr
+Et anleggsmiddel kjøpes for 8 000 000 kr og avskrives etter saldometoden med 30 % hvert år. Hva er bokført verdi for anleggsmidlet etter 3 år (og tre års avskrivninger)?
+$a) 2 744 000 kr
+b) 1 176 000 kr
+c) 5 600 000 kr
+d) 800 000 kr
+Bedriften Omega AS produserer og selger kun et produkt. Salgspris per enhet er 890 kr og variabel kostnad per enhet er 770 kr. I 2012 oppnådde bedriften 500 000 kr i overskudd. De faste kostnadene dette året var på 700 000 kr. Hvor mange enheter produserte bedriften i 2012?
+$a) 10 000
+b) 12 000
+c) 1 348
+d) 5 833
+En bedrift selger et produkt til 800 kr per enhet. Variabel enhetskostnad er 500 kr. Hvis de selger 250 000 enheter, blir resultatet 25 000 000 kr. Hvor mange enheter må de selge for å oppnå en sikkerhetsmargin på 37 %?
+a) 51 780
+b) 359 788
+c) 11 563
+$d) 264 550
+En bedrift produserer og selger produktene A og B med dekningsbidrag per enhet på henholdsvis 158 kr og 180 kr. Begge produktene bearbeides i to maskiner kalt maskin 1 og maskin 2. En enhet av produkt A bruker 2 min i maskin 1 og 8 min i maskin 2. En enhet av produkt B bruker 7 min i maskin 1 og 3 min i maskin 2. Maskin 1 har en kapasitet på 52 000 min per år, mens maskin 2 har en kapasitet på 48 000 min per år. Hvor mange enheter bør bedriften produsere og selge pr. år av produktene A og B?
+a) A = 0 og B = 7 429
+$b) A = 3 600 og B = 6 400
+c) A = 6 400 og B = 3 600
+d) A = 6 000 og B = 0
+Et selskap fører sitt normalkostregnskap for 2013 etter selvkostmetoden og oppnår et produksjonsresultat på 46,4 mill kr. Inngående varebeholdning er på 35,6 mill kr, mens utgående varebeholdning er på 39,0 mill kr. Dersom selskapet hadde brukt bidragsmetoden, ville inngående varebeholdning vært vurdert til 18,0 mill kr, mens utgående varebeholdning ville vært vurdert til 19,4 mill kr. Hva ville resultatet blitt dersom selskapet hadde brukt bidragsmetoden?
+a) 48,4 mill kr
+$b) 44,4 mill kr
+c) 45,8 mill kr
+d) 46,4 mill kr
+Du setter 17 000 kr i banken til 5 % rente per år. Hvor lenge må du la pengene stå i banken før du kan ta ut 21 696,79 kr (med renter og rentes rente)?
+a) 4,5 år
+$b) 5,0 år
+c) 5,5 år
+d) 6,0 år
+En bedrift har 30 dagers betalingsfrist hos sin leverandør. Dersom de betaler kontant får de 2 % kontantrabatt. Hva koster det i effektiv rente per år å betale etter 30 dager i stedet for å betale kontant?(Regn med 360 dager per år.)
+$a) 27,4 %
+b) 24,5 %
+c) 24,0 %
+d) 23,7 %
+En bedrift betaler i løpet av et år 28 000 kr i renter og 72 000 kr i avdrag på lån. I resultatregnskapet for dette året fører dette til en kostnad på:
+a) 100 000 kr
+$b) 28 000 kr
+c) 72 000 kr
+d) 0 kr
+Varelageret for en produksjonsbedrift er verdsatt til 89 000 kr pr. 01.01.2012 og til 73 000 kr pr. 31.12.2012. Varekostnaden for 2012 er 587 000 kr. Hva er varekjøp for 2012?
+a) 603 000 kr
+$b) 571 000 kr
+c) 514 000 kr
+d) 425 000 kr
+For en gitt periode oppnår et selskap 25 800 kr i inntekter, 45 % i dekningsgrad og 3 200 kr i resultat. Hva var faste kostnader for perioden?
+$a) 8 410 kr
+b) 22 600 kr
+c) 11 610 kr
+d) 14 810 kr
+Du investerer 500 000 kr i dag i et prosjekt. Etter 1 år mottar du 435 000 kr og etter to år mottar du 107 000 kr. Beregn internrenten for dette prosjektet.
+a) 5 %
+$b) 7 %
+c) 120 %
+d) Internrenten er ikke definert for dette prosjektet. 

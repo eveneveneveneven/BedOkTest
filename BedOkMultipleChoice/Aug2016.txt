@@ -1,0 +1,55 @@
+For et år har en bedrift oppnådd en totalkapitalrentabilitet på 12 % og en resultatgrad på 10 %. Kapitalens omløpshastighet blir dermed: 
+	   0,02
+$	   1,20
+	   0,83
+	   0,012
+Du starter en ny bedrift 1. jan 2015 og betaler inn 5 mill kr i aksjekapital. Den 3. februar tar bedriften opp et lån på 7 mill kr. Den 15. mai kjøper bedriften maskiner og utstyr for 13 mill kr. Regnskapet for 2015 viser 15 mill kr i inntekter og 12 mill kr i kostnader. Ved utgangen av 2015 (den 31.12) er egenkapitalen lik:
+	   – 1 mill kr
+	   1 mill kr
+	   3 mill kr
+$	   8 mill kr
+Et selskap har 180 mill kr i anleggsmidler, 50 mill kr i omløpsmidler, 100 mill kr i egenkapital og 40 mill kr i arbeidskapital. Langsiktig gjeld og kortsiktig gjeld er dermed henholdsvis:
+	  90 mill kr og 50 mill kr
+	140 mill kr og 10 mill kr
+	  80 mill kr og 20 mill kr
+$	120 mill kr og 10 mill kr
+Et selskap har en maskin som de anskaffer for 300 000 kr ved starten av år 1. I finansregnskapet skal maskinen avskrives lineært over 10 år. Skattemessige saldoavskrivninger for denne maskinen er 30 % og skattesatsen er 28 %. Anta at selskapet hvert år fremover vil ha 200 000 kr i inntekter og 100 000 kr + avskrivninger på maskinen som kostnader. Gjeldsposten utsatt skatt starter på null. Hva vil denne gjeldsposten være etter 3 år?
+	  3 948 kr
+$	29 988 kr
+	27 030 kr
+	26 040 kr
+Et selskap fører sitt normalkostregnskap for 2015 etter selvkostmetoden og oppnår et produksjonsresultat på 92,8 mill kr. Inngående varebeholdning er på 71,2 mill kr, mens utgående varebeholdning er på 78,0 mill kr. Dersom selskapet hadde brukt bidragsmetoden, ville inngående varebeholdning vært vurdert til 36,0 mill kr, mens utgående varebeholdning ville vært vurdert til 38,8 mill kr. Hva ville resultatet blitt dersom selskapet hadde brukt bidragsmetoden?
+	 96,8 mill kr
+$	 88,8 mill kr
+	 91,6 mill kr
+	 92,8 mill kr
+Bedriften Omega AS produserer og selger kun et produkt. Salgspris per enhet er 890 kr og variabel kostnad per enhet er 770 kr. I 2014 oppnådde bedriften 500 000 kr i overskudd. De faste kostnadene dette året var på 700 000 kr. Hvor mange enheter produserte bedriften i 2014?
+$	10 000
+	12 000
+	  1 348
+	  5 833
+En bedrift produserer og selger et produkt til en markedspris som varierer. Variabel kostnad per enhet er 100 kr og faste kostnader er 2 000 000 kr per år. Anta at bedriften selger 20 000 enheter per år og oppnår en sikkerhetsmargin på 25 %. Hva er markedsprisen per enhet avrundet til hele kroner?
+	267 kr
+	333 kr
+$	233 kr
+	267 kr
+Et prosjekt som medfører en investering på 80 mill kr i produksjonsutstyr gir et årlig innbetalingsoverskudd på 30 mill kr i 3 år. Hva må utrangeringsverdien på produksjonsutstyret være (det utstyret selges for etter 3 år) for at prosjektet skal gi en internrente på 10%?
+$	7,18 mill kr
+	8,00 mill kr
+	3,12 mill kr
+	5,20 mill kr
+Du tar opp et annuitetslån på 5 000 000 kr til 3,8 % rente p.a. Lånet skal betales ned over 30 år. Renter og avdrag betales etterskuddsvis en gang i året. Hvor mye betaler du i avdrag det siste året?  ( Oppgitt:  A_(n,r)^(-1)=(r(1+r)^n)/((1+r)^n-1) )
+	282 170 kr
+	  10 330 kr
+$	271 840 kr 
+	298 523 kr 
+En bedrift opererer med en standard lønn på 589 kr/t og et standard tidsforbruk på 1,2 timer per enhet ved produksjon av et bestemt produkt. I oktober brukte bedriften 690 timer på å produsere 580 enheter av produktet. Lønnskostnaden for oktober ble 408 372 kr. Produktivitetsavviket ble dermed:
+	0
+	1 572 kr
+	2 790 kr
+$	3 534 kr
+Du investerer 500 000 kr i dag i et prosjekt. Etter 1 år mottar du 435 000 kr og etter to år mottar du 107 000 kr. Beregn internrenten for dette prosjektet. 
+	5 % 
+$	7 %
+	120 % 
+	Internrenten er ikke definert for dette prosjektet. 

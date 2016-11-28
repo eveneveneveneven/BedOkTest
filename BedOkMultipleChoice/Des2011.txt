@@ -1,0 +1,65 @@
+Et selskap har følgende balanse pr. 01.01.2010. Maskin 600 000 Varer 250 000 Kontanter 50 000 Egenkapital 350 000 Gjeld 550 000 Sum 900 000 Sum 900 000. I løpet av 2010 skjer følgende: Vi kjøper varer for 980 000. På slutten av året er varebeholdningen på 120 000. Vi mottar 1 200 000 i betaling for solgte varer. Maskinen avskrives med 150 000. Vi betaler 180 000 i avdrag på lånet (ingen renter). På slutten av året (pr. 31.12.2010) er kontantbeholdningen og egenkapitalen:
+a) Kontanter = 90 000 og egenkapital = 410 000
+b) Kontanter = 270 000 og egenkapital = 290 000
+$c) Kontanter = 90 000 og egenkapital = 290 000
+d) Kontanter = 270 000 og egenkapital = 410 000
+--- ??? --- sier at årets endring i opptjent egenkapital skal forklares gjennom resultatregnskapet. I stedet for «--- ??? ---» skal det stå: 
+a) Transaksjonsprinsippet
+$b) Kongruensprinsippet
+c) Sammenstillingsprinsippet
+d) Opptjeningsprinsippet
+I balansen i årsrapporten er kundefordringer:
+a) langsiktig gjeld
+b) kortsiktig gjeld
+$c) et omløpsmiddel
+d) et anleggsmiddel
+Selskap A selger varer for 500 000 kr til selskap B. Varene leveres den 17. desember 2010. Selskap B betaler fakturaen den 15. januar 2011. I selskap A sitt årsregnskap for 2010 vil de nevnte 500 000 kr vises som:
+a) Gjeld
+b) Kostnad
+c) Egenkapital
+$d) Inntekt
+Råvarelageret for en produksjonsbedrift er verdsatt til 372 000 kr den 01.01.2010, og til 578 000 den 31.12.2010. I løpet av 2010 har bedriften kjøpt inn råvarer for 5 237 000 kr. Hva blir råvarekostnaden i regnskapet for 2010?
+$a) 5 031 000 kr
+b) 5 443 000 kr
+c) 5 237 000 kr
+d) 4 659 000 kr
+Et anleggsmiddel anskaffes for 700 000 kr ved årsskiftet, og avskrives etter saldometoden med 30 %. Avskrivningen det femte året blir:
+$a) 50 421
+b) 52 380
+c) 72 030
+d) 35 295
+Et selskap har en maskin som de anskaffer for 300 000 kr ved starten av år 1. I finansregnskapet skal maskinen avskrives lineært over 10 år. Skattemessige saldoavskrivninger for denne maskinen er 30 % og skattesatsen er 28 %. Anta at selskapet hvert år fremover vil ha 200 000 kr i inntekter og 100 000 kr + avskrivninger på maskinen som kostnader. Gjeldsposten utsatt skatt starter på null. Hva vil denne gjeldsposten være etter 3 år?
+a) 3 948
+$b) 29 988
+c) 27 030
+d) 26 040
+Et selskap legger frem følgende balanse: Anleggsmidler 3 000 000 Egenkapital 2 300 000 Langsiktig gjeld 3 300 000 Omløpsmidler 4 700 000 Kortsiktig gjeld 2 100 000. Selskapet arbeidskapital er:
+$a) 2 600 000
+b) 700 000
+c) 7 700 000
+d) 3 000 000
+Iløpet av 2010 selger en produksjonsbedrift 2 500 enheter av et produkt til 80 kr per enhet. Variabel kostnad per enhet er 35 kr. Faste kostnader for 2010 er 75 000 kr. Hva blir det totale dekningsbidraget for 2010?
+a) 37 500 kr
+$b) 112 500 kr
+c) 135 000 kr
+d) 200 000 kr
+For en gitt periode oppnår et selskap 25 800 i inntekter, 45 % i dekningsgrad og 3 200 kr i resultat. Faste kostnader for perioden var:
+a) 11 610
+b) 22 600
+c) 1 440
+$d) 8 410
+Et selskap fører sitt normalkostregnskap for 2010 etter selvkostmetoden og oppnår et produksjonsresultat på 398 200 kr. Inngående varebeholdning er på 785 000 kr, mens utgående varebeholdning er på 697 000 kr. Dersom selskapet hadde brukt bidragsmetoden, ville inngående varebeholdning vært vurdert til 298 300 kr, mens utgående varebeholdning ville vært vurdert til 264 860 kr. Hva ville resultatet blitt dersom selskapet hadde brukt bidragsmetoden?
+a) 343 640 kr
+b) – 54 560 kr
+c) 507 320 kr
+$d) 452 760 kr
+En bedrift budsjetterer med et salg på 900 000 kr i januar, 700 000 kr i februar og 580 000 kr i mars i sitt resultatbudsjett. Alt salg skjer innenlands og fordeler seg jevnt over hver måned. Satsen for merverdiavgift er 25 %. Bedriften gir kundene en kreditt på 45 dager. Hva blir kundefordringer ved utgangen av mars (pr. 31.03)?
+a) 1 600 000 kr
+b) 978 500 kr
+c) 725 000 kr
+$d) 1 162 500 kr
+I ABC-kalkulasjon er aktiviteten maskinbearbeiding av en del til et produkt:
+$a) enhetsbasert
+b) seriebasert
+c) produktbasert
+d) bedriftsnivåbasert

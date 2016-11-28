@@ -107,9 +107,9 @@ bool CheckIfQuestionIsAsked(std::vector <int> questions_asked, int question_numb
 
 void PrintQuestions(questions recvd) {
 	for (int i = 0; i < recvd.number_of_questions; i++) {
-		std::cout << recvd.question_str[i] << std::endl;
+		std::cout << recvd.question_str[i] << i<< std::endl;
 		for (int j = 0; j < 4; j++) {
-			std::cout << recvd.answers[i][j] << std::endl;
+			std::cout << recvd.answers[i][j] << i << j << std::endl;
 		}
 		std::cout << "\n" << std::endl;
 	}
@@ -117,7 +117,7 @@ void PrintQuestions(questions recvd) {
 
 questions GetQuestions() {
 	std::string line;
-	std::ifstream myfile("Questions.txt");
+	std::ifstream myfile("AllQuestions.txt");
 	questions collection_of_questions;
 	int i = 0;
 	collection_of_questions.number_of_questions = 0;

@@ -1,0 +1,55 @@
+Du tar opp et lån og betaler 8 % rente på forskudd hvert år. Hva er effektiv rente for lånet?
+a) 7,75 %
+b) 8,00 %
+c) 8,50 %
+$d) 8,70 %
+I balansen i årsrapporten er kundefordringer:
+a) langsiktig gjeld
+b) kortsiktig gjeld
+$c) et omløpsmiddel
+d) et anleggsmiddel
+Et anleggsmiddel anskaffes for 100 000 kr ved årsskiftet, og avskrives etter saldometoden med 20 %. Avskrivningen det femte året blir:
+a) 15 350 kr
+b) 10 240 kr
+$c) 8 192 kr
+d) 6 554 kr
+Et selskap har en maskin som de anskaffer for 300 000 kr ved starten av år 1. I finansregnskapet skal maskinen avskrives lineært over 10 år. Skattemessige saldoavskrivninger for denne maskinen er 30 %og skattesatsen er 28 %. Anta at selskapet hvert år fremover vil ha 200 000 kr i inntekter og 100 000 kr + avskrivninger på maskinen som kostnader. Gjeldsposten utsatt skatt starter på null. Hva vil denne gjeldsposten være etter 3 år?
+a) 3 948 kr
+$b) 29 988 kr
+c) 27 030 kr
+d) 26 040 kr
+Et selskap fører sitt normalkostregnskap for 2014 etter selvkostmetoden og oppnår et produksjonsresultat på 398 200 kr. Inngående varebeholdning er på 785 000 kr, mens utgående varebeholdning er på 697 000 kr. Dersom selskapet hadde brukt bidragsmetoden, ville inngående varebeholdning vært vurdert til 298 300 kr, mens utgående varebeholdning ville vært vurdert til 264 860 kr. Hva ville resultatet blitt dersom selskapet hadde brukt bidragsmetoden?
+a) 343 640 kr
+b) – 54 560 kr
+c) 507 320 kr
+$d) 452 760 kr
+Hvor lenge må et beløp stå i banken til 4,73 % rente per år før du kan ta ut det dobbelte?
+a) 10 år
+b) 12 år
+$c) 15 år
+d) 22 år
+En bedrift opererer med en standard lønn på 589 kr/t og et standard tidsforbruk på 1,2 timer per enhet ved produksjon av et bestemt produkt. I oktober brukte bedriften 690 timer på å produsere 580 enheter av produktet. Lønnskostnaden for oktober ble 408 372 kr. Produktivitetsavviket ble dermed:
+a) 0
+b) 1 572 kr
+c) 2 790 kr
+$d) 3 534 kr
+En bedrift har bokført anleggsmidler i balansen per 31.12.13 og per 31.12.14 til henholdsvis 53 500 kr og 55 800 kr. Avskrivninger i 2014 var på 23 200 kr. Hvor mye har bedriften kjøpt anleggsmidler for i 2014? Se bort fra merverdiavgift.
+a) 20 900 kr
+$b) 25 500 kr
+c) 28 300 kr
+d) 21 300 kr
+En bedrift budsjetterer for første kvartal 2015 med salgsinntekter (uten mva.) på kr 1 200 000, fordelt med kr 580 000 i januar, kr 330 000 i februar og kr 290 000 i mars. De hadde salgsinntekter på kr 710 000 i november og salgsinntekter på kr 650 000 i desember 2014. Bedriften leverer 70 % av omsetningen med en gjennomsnittlig kredittid på 45 dager. Resten er kontantsalg. Merverdiavgiften er 25 %. Hvor mye budsjetterer bedriften å ha utestående hos kundene per 31.03.2015?
+$a) 398 125 kr
+b) 318 500 kr
+c) 542 500 kr
+d) 475 300 kr
+En bedrift selger et produkt til 120 kr per enhet. Variabel enhetskostnad er 90 kr. Hvis de selger 500 000 enheter, blir resultatet 5 000 000 kr. Hvor mange enheter må de selge for å få en sikkerhetsmargin på 35 %?
+$a) 512 821
+b) 952 381
+c) 119 048
+d) 783 542
+Et avisabonnement betales på forskudd. Hvis man betaler for et år koster det 3790 kr. Hvis man betaler for et halvår, koster det 1995 kr. Hva koster det i effektiv rente per år å betale hvert halvår framfor hvert år?
+a) 7,1 %
+b) 22,3 %
+$c) 23,5 %
+d) 5,3 %

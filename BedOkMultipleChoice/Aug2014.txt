@@ -1,0 +1,55 @@
+Bedriften Alfa skal utarbeide en bidragskalkyle (med normalkost) for en ordre. Bedriften består av en materialavdeling, en tilvirkningsavdeling og en salgs- og administrasjonsavdeling. Tilleggssatsene (normalsatsene) for de indirekte variable kostnadene er 15 % av direkte material i materialavdelingen, 50 % av direkte lønn i tilvirkningsavdelingen og 5 % av variable tilvirkningskostnader for dekning av indirekte variable kostnader i salgsogadministrasjonsavdelingen. Til den aktuelle ordren 80 000 kr i direkte material og 120 000 kr i direkte lønn. Hvamå salgsprisen settes til for at man skal oppnå en dekningsgrad på 30 % på denne ordren? Se bort fra merverdiavgift.
+a) 388 571 kr
+$b) 408 000 kr
+c) 952 000 kr
+d) 285 600 kr
+Bedriften Beta produserer og selger bare ett produkt med følgende selvkostkalkyle (kr per enhet): Salgspris 160 000 Direkte variable kostnader 125 000 Indirekte variable kostnader 10 000 Indirekte faste kostnader 15 000 Selvkost 150 000 Kalkylen er basert på en total produksjon og salg på 1 000 enheter per år. I fjor ble overskuddet 7 500 000 kr. Hvor mange enheter ble solgt i fjor?
+$a) 900
+b) 1 000
+c) 750
+d) 50
+En produksjonsbedrift har et råvarelager som er verdsatt til 789 000 kr den 01.01.2013 og til 598 000 den 31.12.2013. I løpet av 2013 har bedriften kjøpt inn råvarer for 3 123 000 kr. Hva blir råvarekostnaden i regnskapet for 2013?
+a) 1 736 000 kr
+b) 2 932 000 kr
+$c) 3 314 000 kr
+d) 3 123 000 kr
+Et anleggsmiddel anskaffes for 12 000 000 kr ved årsskiftet, og avskrives etter saldometoden med 20 %. Avskrivningen det sjuende året blir:
+$a) 629 146 kr
+b) 503 316 kr
+c) 786 432 kr
+d) 3 145 728 kr
+En bedrift budsjetterer med et salg på 900 000 kr i januar, 700 000 kr i februar og 580 000 kr i mars i sitt resultatbudsjett. Alt salg skjer innenlands og fordeler seg jevnt over hver måned. Satsen for merverdiavgift er 25 %. Bedriften gir kundene en kreditt på 45 dager. Hva blir kundefordringer ved utgangen av mars (pr. 31.03)?
+a) 1 600 000 kr
+b) 978 500 kr
+c) 725 000 kr
+$d) 1 162 500 kr
+Et selskap fører sitt driftsregnskap basert på normalkalkulasjon etter selvkostmetoden. I starten av en periode budsjetterer de med en normalkost på 18 000 000 kr i faste kostnader og 6 000 maskintimer for tilvirkningsavdelingen. Ved periodens slutt viser det seg at man har brukt 6 900 maskintimer og at de faste kostnadene ble 20 00 000 kr i tilvirkningsavdelingen. Dermed blir volumavviket:
+a) 700 000 kr
+$b) 2 700 000 kr
+c) – 2 000 000 kr
+d) 1 500 000 kr
+Et selskap fører sitt normalkostregnskap for 2013 etter selvkostmetoden og oppnår et produksjonsresultat på 23,2 mill kr. Inngående varebeholdning er på 17,8 mill kr, mens utgående varebeholdning er på 19,5 mill kr. Dersom selskapet hadde brukt bidragsmetoden, ville inngående varebeholdning vært vurdert til 9,0 mill kr, mens utgående varebeholdning ville vært vurdert til 9,7 mill kr. Hva ville resultatet blitt dersom selskapet hadde brukt bidragsmetoden?
+a) 20,5 mill kr
+$b) 22,2 mill kr
+c) 22,9 mill kr
+d) 23,2 mill kr
+Dersom totalkapitalrentabiliteten er 8 % og resultatgraden er 14 %, blir kapitalens omløpshastighet:
+a) 1,75
+b) 1,12
+$c) 0,57
+d) 0,22
+I prosjekt A kan man investere 480 mill kr og få tilbake 560 mill kr etter ett år. I prosjekt B kan man investere 360 mill kr og få tilbake 425 mill kr etter ett år. Hvilket avkastningskrav gir samme netto nåverdi for de to prosjektene?
+a) 1,39 %
+b) 31,76 %
+c) 18,06 %
+$d) 12,50 %
+For en gitt periode oppnår et selskap 36 mill kr i inntekter, 25 % i dekningsgrad og 5 mill kr i resultat. Hva var faste kostnader for perioden?
+a) 9 mill kr
+b) 10 mill kr
+$c) 4 mill kr
+d) 14 mill kr
+Hvor lenge må et beløp stå i banken til 3,2 % rente per år før du kan ta ut det dobbelte?
+a) 10 år
+b) 12 år
+c) 17 år
+$d) 22 år

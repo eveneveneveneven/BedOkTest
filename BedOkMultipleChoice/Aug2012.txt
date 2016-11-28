@@ -1,0 +1,75 @@
+X sier at periodens resultat skal måles ved at periodens inntekter sammenstilles med periodens kostnader. I stedet for X skal det stå:
+a) Transaksjonsprinsippet
+b) Kongruensprinsippet
+c) Opptjeningsprinsippet
+$d) Sammenstillingsprinsippet
+I balansen i årsrapporten er goodwill:
+a) langsiktig gjeld
+b) kortsiktig gjeld
+c) et omløpsmiddel
+$d) et anleggsmiddel
+I balansen i årsrapporten er utsatt skattefordel:
+a) langsiktig gjeld
+b) kortsiktig gjeld
+c) et omløpsmiddel
+$d) et anleggsmiddel
+Varelageret for en bedrift er verdsatt til 897 kr den 01.01.2011, og til 837 den 31.12.2011. I løpet av 2011 har bedriften kjøpt inn råvarer for 7 389 kr. Hva blir råvarekostnaden i regnskapet for 2011?
+$a) 7 449 kr
+b) 7 329 kr
+c) 7 389 kr
+d) 9 123 kr
+Selskapet AS FixFax gir sine kunder 60 dager betalingsfrist. Selskapet har i desember 2011 utført en jobb for en kunde. Fakturaen lyder på 832 000 kr og kunden betaler denne den 5. februar 2012. I årsrapporten og balansen for 2011 vil de 832 000 kr vises som:
+$a) en kundefordring
+b) kortsiktig gjeld
+c) goodwill
+d) en obligasjon
+Et selskap har en maskin som de anskaffer for 300 000 kr ved starten av år 1. I finansregnskapet skal maskinen avskrives lineært over 10 år. Skattemessige saldoavskrivninger for denne maskinen er 30 % og skattesatsen er 28 %. Anta at selskapet hvert år fremover vil ha 200 000 kr i inntekter og 100 000 kr + avskrivninger på maskinen som kostnader. Gjeldsposten utsatt skatt starter på null. Hva vil denne gjeldsposten være etter 3 år?
+$a) 29 988
+b) 27 030
+c) 26 040
+d) 3 948
+Selskapet Gemini AS fører sitt normalkostregnskap for 2011 etter selvkostmetoden og oppnår et produksjonsresultat på 796 400 kr. Inngående varebeholdning er på 1 570 000 kr, mens utgående varebeholdning er på 1 394 000 kr. Dersom selskapet hadde brukt bidragsmetoden, ville inngående varebeholdning vært vurdert til 596 600 kr, mens utgående varebeholdning ville vært vurdert til 529 720 kr. Hva ville resultatet blitt dersom selskapet hadde brukt bidragsmetoden?
+a) 687 280 kr
+b) 1 014 640 kr
+$c) 905 520 kr
+d) – 109 120 kr
+Dersom totalkapitalrentabiliteten er 9,8 % og resultatgraden er 12,3 %, blir totalkapitalens omløpshastighet:
+a) 22,1 %
+b) 1,205
+$c) 0,797
+d) 2,5 %
+For regnskapsåret 2011 har et selskap en totalkapital på 80 000 000 kr og et resultat på 15 000 000 kr. Dersom de benytter et avkastningskrav (kapitalkostnad) på 10 % blir Economic Value Added (EVA):
+$a) 7 000 000 kr
+b) 1 500 000 kr
+c) 8 000 000 kr
+d) 3 500 000 kr
+En bedrift starter en regnskapsperiode med en balanse som sier: Varer = 100, Bankkonto = 100, Egenkapital = 100, og Gjeld = 100. I løpet av regnskapsperioden betaler de 50 i avdrag på lån, de selger varer for 750, og de kjøper varer for 800. På slutten av perioden er varebeholdningen verdsatt til 50. På slutten av regnskapsperioden er egenkapitalen:
+$a) 0
+b) 100
+c) 50
+d) – 50
+Et anleggsmiddel kjøpes inn ved årsskiftet for 800 000 kr og avskrives lineært over 10 år i finansregnskapet. Skattemessig avskrives anleggsmidlet med 30 % etter saldometoden. Skattesatsen er 28 %. Ved regnskapsavslutningen for det sjuende året blir balanseposten utsatt skatt:
+a) 74 352
+b) 63 247
+$c) 48 753
+d) 31 887
+Et selskap fører normalkostregnskap etter selvkostmetoden. I starten av en periode har de budsjettert med en normalkost på 500 000 kr i faste kostnader og 200 maskintimer (som er fordelingsgrunnlag). Ved periodens slutt viser det seg at man har brukt 250 maskintimer og at de faste kostnadene ble 520 000 kr. Forbruksavviket blir:
+a) – 30 000 kr
+b) 105 000 kr
+$c) – 20 000 kr
+d) 125 000 kr
+En bedrift opererer med en standard lønn på 589 kr/t og et standard tidsforbruk på 1,2 timer per enhet ved produksjon av et bestemt produkt. I oktober brukte bedriften 690 timer på å produsere 580 enheter av produktet. Lønnskostnaden for oktober ble 408 372 kr. Produktivitetsavviket ble dermed:
+a) 0
+b) 1 572 kr
+c) 2 790 kr
+$d) 3 534 kr
+Standarden for direkte materialer for et produkt er 20 kg til en standardpris på kr 0,75 per kg. Sist periode ble det tilvirket 56 000 enheter av produktet. Mengdeavviket ble ufordelaktig med kr 30 000. Hvor mange kg ble virkelig forbrukt i perioden?
+$a) 1 160 000
+b) 1 080 000
+c) 1 200 000
+d) 784 000
+Matrix AS hadde i 2011 en omsetning på kr 20 mill. Salget påløper jevnt over hele året. Budsjetter salget og innbetalingene for de fire første månedene av 2012, når du antar at: Halvparten av salget er kontant, 25 % er per 1 mnd. kreditt, og resten er per 3 måneders kreditt. Økning i omsetningen er på 20 % i forhold til 2011. Merverdiavgiften er 25 %. Alt salg skjer innenlands. UB kundefordringer per 30.04.2012 blir:
+a) 2 400 000
+$b) 2 500 000
+c) 2 600 000
+d) 2 700 000

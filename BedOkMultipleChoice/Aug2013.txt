@@ -1,0 +1,75 @@
+Kongruensprinsippet sier at:
+a) transaksjoner skal regnskapsføres til verdien av vederlaget på transaksjonstidspunktet.
+b) en inntekt tidligst kan resultatføres når inntekten er realisert.
+c) periodens resultat skal måles ved at periodens inntekter sammenstilles med periodens kostnader.
+$d) årets endring i opptjent egenkapital skal forklares gjennom resultatregnskapet.
+I balansen i årsrapporten er utsatt skattefordel:
+a) langsiktig gjeld
+b) kortsiktig gjeld
+c) et omløpsmiddel
+$d) et anleggsmiddel
+I balansen i årsrapporten er goodwill:
+a) langsiktig gjeld
+b) kortsiktig gjeld
+c) et omløpsmiddel
+$d) et anleggsmiddel
+Selskap A selger varer for 250 000 kr til selskap B. Varene leveres den 20. desember 2012. Selskap B betaler fakturaen den 3. februar 2013. I selskap A sitt årsregnskap for 2012 vil de nevnte 250 000 kr vises som:
+a) Gjeld
+b) Kostnad
+c) Egenkapital
+$d) Inntekt
+Et selskap har en maskin som de anskaffer for 300 000 kr ved starten av år 1. I finansregnskapet skal maskinen avskrives lineært over 10 år. Skattemessige saldoavskrivninger for denne maskinen er 30 % og skattesatsen er 28 %. Anta at selskapet hvert år fremover vil ha 200 000 kr i inntekter og 100 000 kr + avskrivninger på maskinen som kostnader. Gjeldsposten utsatt skatt starter på null. Hva vil denne gjeldsposten være etter 3 år?
+a) 3 948
+$b) 29 988
+c) 27 030
+d) 26 040
+Du starter opp en ny bedrift 1. jan 2011 og betaler inn 2 mill kr i aksjekapital. Samtidig tar bedriften opp et lån på 3 mill kr og kjøper maskiner og utstyr for 4,5 mill kr. Regnskapet for 2011 viser 8 mill kr i inntekter og 7 mill kr i kostnader. Ved utgangen av 2011 (den 31.12) er egenkapitalen i selskapet lik:
+a) 1 mill kr
+$b) 3 mill kr
+c) 4 mill kr
+d) 2 mill kr
+En bedrift budsjetterer for første kvartal 2011 med et salg på kr 5 000, fordelt med kr 600 i januar, kr 2 000 i februar og kr 2 400 i mars. De hadde en omsetning på kr 1 000 i november og en omsetning på kr 4 600 i desember 2010. Bedriften leverer 20 % av omsetningen med en gjennomsnittlig kredittid på 60 dager. Resten er kontantsalg. Merverdiavgiften er 25 %. Hvor mye budsjetterer bedriften å ha utestående hos kundene per31.03.2011?
+a) 1 000 kr
+$b) 1 100 kr
+c) 1 200 kr
+d) 1 300 kr
+Et selskap legger frem følgende balanse: Anleggsmidler 3 300 000 Egenkapital 2 300 000 Langsiktig gjeld 3 700 000 Omløpsmidler 5 000 000 Kortsiktig gjeld 2 300 000. Selskapets arbeidskapital er:
+a) 1 000 000
+b) 1 300 000
+$c) 2 700 000
+d) 5 000 000
+Et selskap fører sitt normalkostregnskap for 2010 etter selvkostmetoden og oppnår et produksjonsresultat på 398 200 kr. Inngående varebeholdning er på 785 000 kr, mens utgående varebeholdning er på 697 000 kr. Dersom selskapet hadde brukt bidragsmetoden, ville inngående varebeholdning vært vurdert til 298 300 kr, mens utgående varebeholdning ville vært vurdert til 264 860 kr. Hva ville resultatet blitt dersom selskapet hadde brukt bidragsmetoden?
+a) 343 640 kr
+b) – 54 560 kr
+c) 507 320 kr
+$d) 452 760 kr
+Et selskap fører normalkostregnskap etter selvkostmetoden. I starten av en periode har de budsjettert med en normalkost på 500 000 kr i faste kostnader og 200 maskintimer (som er fordelingsgrunnlag). Ved periodens slutt viser det seg at man har brukt 250 maskintimer og at de faste kostnadene ble 520 000 kr. Forbruksavviket blir:
+a) – 30 000 kr
+b) 105 000 kr
+$c) – 20 000 kr
+d) 125 000 kr
+Et selskap fører sitt driftsregnskap basert på normalkalkulasjon etter selvkostmetoden. I starten av en periode budsjetterer de med en normalkost på 18 000 000 kr i faste kostnader og 6 000 maskintimer for tilvirkningsavdelingen. Ved periodens slutt viser det seg at man har brukt 6 900 maskintimer og at de faste kostnadene ble 20 00 000 kr i tilvirkningsavdelingen. Dermed blir volumavviket:
+a) 700 000 kr
+$b) 2 700 000 kr
+c) – 2 000 000 kr
+d) 1 500 000 kr
+En ny lastebil har en bokført verdi på 800 000 kr. Skattemessige saldoavskrivninger for dette anleggsmidlet er 20 %. Hva blir avskrivningene (i kroner) det niende året?
+$a) 26 844 kr
+b) 33 554 kr
+c) 21 475 kr
+d) 80 000 kr
+Dersom totalkapitalrentabiliteten er 9,6 % og resultatgraden er 8 %, blir kapitalens omløpshastighet:
+$a) 1,20
+b) 0,83
+c) 7,68
+d) 0,80
+Hva er den høyeste satsen for arbeidsgiveravgift i Norge?
+a) 11,2 %
+b) 12,0 %
+$c) 14,1 %
+d) 15,0 %
+Følgende oversikt viser omsetningen (inkl. mva.) og innbetaling fra kunder (inkl. mva.) for hver måned. september oktober november desember Omsetning 218 750 62 500 78 125 100 000 Innbetaling (med mva.) 375 000 218 750 109 375 85 156 Halvparten av salget skjer mot kontant betaling, mens resten skjer med en kreditt-tid på 45 dager. Hva blir kundefordringene per 31. desember?
+$a) 69 531,25
+b) 100 000,00
+c) 139 062,50
+d) 69 921,75
